@@ -44,4 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
+Special thanks to the tkinter library for providing the GUI framework, and to the Python community for their valuable contributions and support.
 
